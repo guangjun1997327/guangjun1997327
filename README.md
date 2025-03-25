@@ -4,7 +4,7 @@
 
 🤗 I’m interested in BNN (Bayesian Neural Network), CV, 3D Reconstruction, LLM, RL, AI app. in Robotics and Autonomous driving, Visualization of ML.
 
-🌱 I’m currently reading bayesian modelling.
+🌱 I’m currently reading  modelling and reasoning with bayesian networks written by Adnan Darwiche.
 
 ✨ Hobbies: 🏀🏸🏋️‍♂️🎿🎹💃🎶
 
